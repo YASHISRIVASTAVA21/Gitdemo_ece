@@ -1,0 +1,26 @@
+
+.box1, .box2 {
+    display: inline-block;
+    width: 150px;
+    padding: 20px;
+    color: white;
+    font-size: 18px;
+
+    float: left;        /* Task 3: float left */
+}
+
+/* Task 2: Different background colors */
+.box1 {
+    background-color: teal;
+}
+
+.box2 {
+    background-color: tomato;
+}
+
+/* Task 4: Fix layout using clear */
+.text {
+    clear: both;
+    font-size: 18px;
+    margin-top: 20px;
+}

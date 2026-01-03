@@ -1,0 +1,24 @@
+table {
+    width: 40%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    font-size: 18px;
+    border: 1px solid #333;
+}
+
+caption {
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+th, td {
+    border: 1px solid #333;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    font-weight: bold;
+    background: #f2f2f2;
+}

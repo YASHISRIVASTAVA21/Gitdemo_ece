@@ -1,0 +1,25 @@
+
+.flex-container {
+    display: flex;
+
+    
+    justify-content: center;
+
+    
+    align-items: center;
+
+    
+    gap: 10px;
+
+    height: 200px;                
+    border: 2px solid #333;       
+}
+
+/* Style for boxes */
+.box {
+    background-color: teal;
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 4px;
+}
